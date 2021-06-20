@@ -24,4 +24,4 @@ Desafios propostos para prática e fortalecimentos dos seguintes conceitos:
 
 ---
 
-Feito com 💜 por [Camilla Correia](https://www.linkedin.com/in/camilla-correia-3203a3139/)
+Feito com 💜 por [Camilla Correia](https://www.linkedin.com/in/camillacorreia)
